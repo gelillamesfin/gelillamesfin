@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Gelilla </h1>
-<h3> You're awesome for visiting my GitHub! 🚀</h3>
+<h5> You're awesome for visiting my GitHub! 🚀</h5>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gelillatafa/) 
