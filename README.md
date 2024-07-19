@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Gelilla M Tafa</h1>
+ <h1 align="center">Hi 👋, I'm Gelilla </h1>
 <h3 align="center">MERN enthusiast |Team Player | problem solver| Coffee-Fueled Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gelillamesfin&label=Profile%20views&color=0e75b6&style=flat" alt="gelillamesfin" /> </p>
